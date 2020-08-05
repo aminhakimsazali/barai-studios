@@ -1,0 +1,41 @@
+.navbar-color {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 120px;
+  background: #8312d1;
+  opacity: 1;
+}
+
+.logo-class {
+  top: 11px;
+  left: 140px;
+  width: 61px;
+  height: 97px;
+  background: 0% 0% no-repeat;
+  opacity: 1;
+}
+
+.nav-item-class {
+  /* top: 44px; */
+  /* left: 1250px; */
+  /* width: 107px; */
+  /* height: 35px; */
+  padding-right: 30px;
+  text-align: left;
+  font-family: "Ashcan BB";
+  font-size: 30px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.barai-logo-word {
+  /* top: 37px; */
+  /* left: 229px; */
+  opacity: 1;
+}
+
+.nav-item a.active {
+  border-bottom: 3px solid red;
+}
