@@ -6,7 +6,26 @@ class SlideFour extends Component {
   render() {
     return (
       <div className="container-bg-fourth">
-        <h1>Fourth</h1>
+        <div className="row text-center">
+          <div className="col-6 ">
+            <img
+              className="image-fourth"
+              src={require("../assets/slide fourth.png")}
+              alt=""
+            />
+          </div>
+          <div className="col-3 insta-barai card-custom-class px-5">
+            <img
+              className="w100 pt-3"
+              src={require("../assets/icon-insta.svg")}
+              alt=""
+            ></img>
+            <h1 className="text-sixth-card-1 mt-3">@baraistudios</h1>
+          </div>
+          <div className="col-3 bunny-image">
+            <img src={require("../assets/purple bunny.svg")} alt="" />
+          </div>
+        </div>
       </div>
     );
   }

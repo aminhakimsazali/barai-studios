@@ -5,8 +5,12 @@ class SlideOne extends Component {
   state = {};
   render() {
     return (
-      <div className="container container-bg">
-        <h1>Hakim</h1>
+      <div className="container-bg-first">
+        <img
+          className="w100"
+          src={require("../assets/slide one.png")}
+          alt=""
+        ></img>
       </div>
     );
   }
