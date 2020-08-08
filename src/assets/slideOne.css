@@ -4,3 +4,105 @@
   width: 1920px;
   height: 1080px;
 }
+
+.welcome-banner {
+  width: 800px;
+  height: 236px;
+  margin-top: 100px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 8px solid #8312d1;
+  border-radius: 55px;
+  opacity: 1;
+}
+
+.welcome-to-text {
+  margin-top: 20px;
+  font-family: "Ashcan BB";
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  letter-spacing: 0px;
+  color: #8312d1;
+  opacity: 1;
+}
+
+.barai-studio-text {
+  font-family: "Ashcan BB";
+  text-align: center;
+  font-size: 90px;
+  font-weight: bold;
+
+  /* font: Bold 97px ashcan BB; */
+  letter-spacing: 0px;
+  color: #8312d1;
+  opacity: 1;
+}
+
+.image-container {
+  width: 900px;
+  height: 512px;
+  margin-top: 61px;
+}
+.image-slide-one {
+  object-fit: cover;
+}
+
+.bubble-chat-container {
+  margin-top: 250px;
+  margin-left: 90px;
+  width: 659px;
+  height: 368px;
+  background: #8312d1 0% 0% no-repeat padding-box;
+  border-radius: 103px;
+  opacity: 1;
+}
+
+.comment {
+  width: 500px;
+  height: 350 px;
+  max-width: 659px;
+  max-height: 368;
+  background: #8312d1 0% 0% no-repeat padding-box;
+  border-radius: 80px;
+  opacity: 1;
+  margin-top: 333px;
+  margin-left: 93px;
+}
+
+.hey-there {
+  margin-top: 48px;
+  padding-left: 47px;
+  padding-top: 47px;
+
+  text-align: left;
+  font-family: "Ashcan BB";
+  font-size: 58px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.arrow-container {
+  margin-top: 27px;
+  margin-left: 290px;
+  height: 315px;
+  width: 85px;
+}
+
+.arrow-class {
+  font-size: 13;
+  color: #8312d1;
+}
+
+.scroll-down-text {
+  /* transform: rotate(-90deg);
+   */
+  transform: matrix(0, -1, 1, 0, 0, 0);
+  font-size: 40px;
+  text-align: left;
+  font-family: "Ashcan BB";
+  font-weight: "regular";
+
+  letter-spacing: 0px;
+  color: #2a2a2a;
+  opacity: 1;
+}

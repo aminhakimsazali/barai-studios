@@ -7,6 +7,7 @@ import SlideThree from "./components/SlideThree";
 import SlideFour from "./components/SlideFour";
 import SlideFive from "./components/SlideFive";
 import SlideSix from "./components/SlideSix";
+import "./components/FontAwesome";
 
 function App() {
   return (
