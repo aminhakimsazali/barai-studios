@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efd03a832f0c3d98fb23bdacc677730d",
+    "revision": "c3cfe35eb05773ac1cc73d15d63b558a",
     "url": "/barai-studios/index.html"
   },
   {
-    "revision": "210aafb8b50f3fd2019e",
+    "revision": "a5da4b22a1d928ab855f",
     "url": "/barai-studios/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9bb2b0bf0ba4a43b154e",
-    "url": "/barai-studios/static/css/main.7ff85288.chunk.css"
+    "revision": "219ec2f50aa2995d6b21",
+    "url": "/barai-studios/static/css/main.2a972974.chunk.css"
   },
   {
-    "revision": "210aafb8b50f3fd2019e",
-    "url": "/barai-studios/static/js/2.39f7c0fc.chunk.js"
+    "revision": "a5da4b22a1d928ab855f",
+    "url": "/barai-studios/static/js/2.47bf665f.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/barai-studios/static/js/2.39f7c0fc.chunk.js.LICENSE.txt"
+    "url": "/barai-studios/static/js/2.47bf665f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9bb2b0bf0ba4a43b154e",
-    "url": "/barai-studios/static/js/main.3724a357.chunk.js"
+    "revision": "219ec2f50aa2995d6b21",
+    "url": "/barai-studios/static/js/main.878a8182.chunk.js"
   },
   {
     "revision": "cf1e33d19f2b8a778035",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barai-studios/static/media/slide fourth.ef706699.png"
   },
   {
-    "revision": "e46085c250f6e67f046fbce42f0d2820",
-    "url": "/barai-studios/static/media/slide one.e46085c2.png"
+    "revision": "7708f6e4c3a6db92089630cf0e88c260",
+    "url": "/barai-studios/static/media/slide one img.7708f6e4.jpg"
   },
   {
     "revision": "ce77a6f88d038bed6cfa09fc9618c647",

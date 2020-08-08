@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/barai-studios/static/css/main.7ff85288.chunk.css",
-    "main.js": "/barai-studios/static/js/main.3724a357.chunk.js",
-    "main.js.map": "/barai-studios/static/js/main.3724a357.chunk.js.map",
+    "main.css": "/barai-studios/static/css/main.2a972974.chunk.css",
+    "main.js": "/barai-studios/static/js/main.878a8182.chunk.js",
+    "main.js.map": "/barai-studios/static/js/main.878a8182.chunk.js.map",
     "runtime-main.js": "/barai-studios/static/js/runtime-main.8586f309.js",
     "runtime-main.js.map": "/barai-studios/static/js/runtime-main.8586f309.js.map",
     "static/css/2.af3c1da9.chunk.css": "/barai-studios/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.39f7c0fc.chunk.js": "/barai-studios/static/js/2.39f7c0fc.chunk.js",
-    "static/js/2.39f7c0fc.chunk.js.map": "/barai-studios/static/js/2.39f7c0fc.chunk.js.map",
+    "static/js/2.47bf665f.chunk.js": "/barai-studios/static/js/2.47bf665f.chunk.js",
+    "static/js/2.47bf665f.chunk.js.map": "/barai-studios/static/js/2.47bf665f.chunk.js.map",
     "index.html": "/barai-studios/index.html",
-    "precache-manifest.2d010ca0c53e5b79bed719c405f5c14d.js": "/barai-studios/precache-manifest.2d010ca0c53e5b79bed719c405f5c14d.js",
+    "precache-manifest.d79b2cfc99757edd3a14d80d7dffdebd.js": "/barai-studios/precache-manifest.d79b2cfc99757edd3a14d80d7dffdebd.js",
     "service-worker.js": "/barai-studios/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/barai-studios/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.7ff85288.chunk.css.map": "/barai-studios/static/css/main.7ff85288.chunk.css.map",
-    "static/js/2.39f7c0fc.chunk.js.LICENSE.txt": "/barai-studios/static/js/2.39f7c0fc.chunk.js.LICENSE.txt",
+    "static/css/main.2a972974.chunk.css.map": "/barai-studios/static/css/main.2a972974.chunk.css.map",
+    "static/js/2.47bf665f.chunk.js.LICENSE.txt": "/barai-studios/static/js/2.47bf665f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/barai-studios/static/media/ashcanbb_reg.685914bd.ttf",
     "static/media/icon-insta.svg": "/barai-studios/static/media/icon-insta.58c51129.svg",
     "static/media/icon-mail.svg": "/barai-studios/static/media/icon-mail.427fb068.svg",
@@ -23,7 +23,7 @@
     "static/media/purple bunny.svg": "/barai-studios/static/media/purple bunny.cdb6dd75.svg",
     "static/media/slide fifth.png": "/barai-studios/static/media/slide fifth.e13657ee.png",
     "static/media/slide fourth.png": "/barai-studios/static/media/slide fourth.ef706699.png",
-    "static/media/slide one.png": "/barai-studios/static/media/slide one.e46085c2.png",
+    "static/media/slide one img.jpg": "/barai-studios/static/media/slide one img.7708f6e4.jpg",
     "static/media/slide six.png": "/barai-studios/static/media/slide six.ce77a6f8.png",
     "static/media/slide three.png": "/barai-studios/static/media/slide three.a8fb90a0.png",
     "static/media/slide two - 1.png": "/barai-studios/static/media/slide two - 1.d98db31a.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.8586f309.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.39f7c0fc.chunk.js",
-    "static/css/main.7ff85288.chunk.css",
-    "static/js/main.3724a357.chunk.js"
+    "static/js/2.47bf665f.chunk.js",
+    "static/css/main.2a972974.chunk.css",
+    "static/js/main.878a8182.chunk.js"
   ]
 }
