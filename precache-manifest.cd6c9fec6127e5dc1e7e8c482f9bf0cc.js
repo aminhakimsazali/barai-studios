@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3cfe35eb05773ac1cc73d15d63b558a",
+    "revision": "45d27fa9422fe21cc80a5e7ba0e066dd",
     "url": "/barai-studios/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barai-studios/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "219ec2f50aa2995d6b21",
+    "revision": "fb9214b296d2076b8cb2",
     "url": "/barai-studios/static/css/main.2a972974.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barai-studios/static/js/2.47bf665f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "219ec2f50aa2995d6b21",
-    "url": "/barai-studios/static/js/main.878a8182.chunk.js"
+    "revision": "fb9214b296d2076b8cb2",
+    "url": "/barai-studios/static/js/main.b688738a.chunk.js"
   },
   {
     "revision": "cf1e33d19f2b8a778035",
